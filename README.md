@@ -43,19 +43,20 @@ The analysis utilizes a public Brazilian e-commerce dataset, structured into sev
 Here are key views from the interactive Power BI dashboard:
 
 ### Sales Overview
-![Sales Dashboard Page](images/powerbi_sales_dashboard.png)
+![Sales Dashboard Page](BI1.png)
 
 ### Logistics Performance
-![Logistics Dashboard Page](images/powerbi_logistics_dashboard.png)
+![Logistics Dashboard Page](BI2.png)
 
 ### Customer Reviews Analysis
-![Reviews Dashboard Page](images/powerbi_reviews_dashboard.png)
+![Reviews Dashboard Page](BI3.png)
+
+### Geographic Customer Distribution
+![Map 1 - Customer Locations](BI4.png)
 
 ### Payment Methods & Installments
 ![Payments Dashboard Page](images/powerbi_payments_dashboard.png)
 
-### Geographic Customer Distribution
-![Map 1 - Customer Locations](images/powerbi_map1_customers.png)
-
 ### Geographic Seller & Sales Overview
-![Map 2 - Seller & Sales Map](images/powerbi_map2_sellers_sales.png)
+![Map 1 - Seller & Sales Map](images/BI5.jpg)
+![Map 2 - Seller & Sales Map](images/BI6.jpg)
