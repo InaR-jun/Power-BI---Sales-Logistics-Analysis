@@ -48,15 +48,14 @@ Here are key views from the interactive Power BI dashboard:
 ### Logistics Performance
 ![Logistics Dashboard Page](BI2.png)
 
+### Payment Methods & Installments
+![Payments Dashboard Page](BI4.png)
+
 ### Customer Reviews Analysis
 ![Reviews Dashboard Page](BI3.png)
 
 ### Geographic Customer Distribution
-![Map 1 - Customer Locations](BI4.png)
-
-### Payment Methods & Installments
-![Payments Dashboard Page](images/powerbi_payments_dashboard.png)
+![Map 1 - Customer Locations](BI5.png)
 
 ### Geographic Seller & Sales Overview
-![Map 1 - Seller & Sales Map](images/BI5.jpg)
-![Map 2 - Seller & Sales Map](images/BI6.jpg)
+![Map 2 - Seller & Sales Map](BI6.jpg)
