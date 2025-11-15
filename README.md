@@ -14,14 +14,15 @@ This project showcases a broad range of Power BI and data analysis expertise:
 
 ## 📈 Core Metrics and Analysis Tabs
 
-The dashboard is structured around four main analysis tabs, visualizing a wide array of KPIs:
+The dashboard is structured around four main analysis tabs, visualizing a wide array of KPIs, as demonstrated in the screenshots below:
 
-| Analysis Tab | Sales Metrics | Logistics Metrics | Other Metrics |
-| :--- | :--- | :--- | :--- |
-| **Sales** | Revenue, Average Order Value (AOV), Conversion Rate (Sales/Leads), Active Customer Base, Sales Rankings. | N/A | Events Funnel (Order Created -> Delivered), Geographic Sales Map. |
-| **Logistics** | N/A | **On-time Delivery Rate**, Cost per Unit Shipment, Average Order Processing Time, Average Order Cycle Time. | Shipping Time Dynamics. |
-| **Payments** | Self-Service Analytical Block: **Payment Type Breakdown**, Installment Analysis. | N/A | N/A |
-| **Reviews** | Self-Service Analytical Block: **Review Scores**, Sentiment Dynamics, Customer Feedback Analysis. | N/A | N/A |
+| Analysis Tab | Key Metrics & Visualizations Highlighted |
+| :--- | :--- |
+| **Sales** | Average Order Value (AOV), Revenue, Conversion Rate, Top 10 Products, Active Customers trend, Monthly Order Count/Amount. |
+| **Logistics** | On-time Delivery Rate, Average Processing Day/Cycle Day, Cost per Unit Shipment, Average Process Hour/Cycle Hour, Customer State breakdown. |
+| **Payments** | Full Payment vs. Installments breakdown, Payment Type analysis (Boleto, Credit Card etc.), Installment trends. |
+| **Reviews** | Average Review Score, Total Reviews, Monthly Reviews trend, Product Group review scores, Sentiment distribution (Excellent, Neutral, Bad). |
+| **Maps (Map1 & Map2)** | Geographic distribution of Customers and Sellers, Drill-through details for locations, Sales/Orders by region. |
 
 ## 📦 Project Structure and Data
 The analysis utilizes a public Brazilian e-commerce dataset, structured into seven core tables:
@@ -34,3 +35,27 @@ The analysis utilizes a public Brazilian e-commerce dataset, structured into sev
 * **Products**
 * **Sellers**
 * **Order Reviews**
+
+---
+
+## 🖼️ Dashboard Visualizations
+
+Here are key views from the interactive Power BI dashboard:
+
+### Sales Overview
+![Sales Dashboard Page](images/powerbi_sales_dashboard.png)
+
+### Logistics Performance
+![Logistics Dashboard Page](images/powerbi_logistics_dashboard.png)
+
+### Customer Reviews Analysis
+![Reviews Dashboard Page](images/powerbi_reviews_dashboard.png)
+
+### Payment Methods & Installments
+![Payments Dashboard Page](images/powerbi_payments_dashboard.png)
+
+### Geographic Customer Distribution
+![Map 1 - Customer Locations](images/powerbi_map1_customers.png)
+
+### Geographic Seller & Sales Overview
+![Map 2 - Seller & Sales Map](images/powerbi_map2_sellers_sales.png)
