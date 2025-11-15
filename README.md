@@ -58,4 +58,4 @@ Here are key views from the interactive Power BI dashboard:
 ![Map 1 - Customer Locations](BI5.png)
 
 ### Geographic Seller & Sales Overview
-![Map 2 - Seller & Sales Map](BI6.jpg)
+![Map 2 - Seller & Sales Map](BI6.png)
